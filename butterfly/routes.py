@@ -61,7 +61,7 @@ B                   `         '
       j888888bd8gf"'   ':'   `"?g8bd888888k         AHost: G%sB
         R'Y'B   .8'     d' 'b     '8.   R'Y'X           AUser: G%rB
          R!B   .8' RdbB  d'; ;`b  RdbB '8.   R!B
-            d88  R`'B  8 ; ; 8  R`'B  88b             AFrom:B
+            d88  R`'B  8 ; ; 8  R'`B  88b             AFrom:B
            d888b   .g8 ',' 8g.   d888b              AHost: G%sB
           :888888888Y'     'Y888888888:             AUser: G%rB
           '! 8888888'       `8888888 !'
